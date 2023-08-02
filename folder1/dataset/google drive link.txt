@@ -1,0 +1,3 @@
+download 2 folders named test and train from drive and copy paste in this directory
+
+https://drive.google.com/drive/folders/15JOT8xh6PHSPjqYnsyHoBJDv6PbmW5s7?usp=sharing
